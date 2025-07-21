@@ -1,18 +1,48 @@
 # 🟣 Retail Sales Performance Analysis | Power BI Project
 
-This Power BI project analyzes historical retail sales data (1997–1998) to provide strategic insights into product, store, and customer performance.
+This Power BI project focuses on analyzing retail sales data from 1997–1998. The dashboard was developed to track and understand business performance across products, customers, and stores.
 
-## 🔍 Key Features:
-- Cleaned and transformed data using Power Query
-- Created KPIs: Total Sales, Return Rate, Quantity Sold, and AOV
-- Used DAX for custom time-intelligence measures
-- Visualized trends with line charts, pie charts, and bar graphs
-- Filtered by Country, Product, Month, Store
-- Designed with a modern dark-neon dashboard theme
+## 📊 Project Overview
 
-## 📁 Tools Used:
-Power BI | DAX | Power Query | Excel | Data Modeling | Data Visualization | UI/UX Dashboard Design
+The dashboard is divided into two pages:
+
+### 🔹 Page 1: Executive Overview
+- Sales performance trends
+- KPIs like Total Sales, Orders, Return Rate, AOV, Quantity
+- Top Products by Sales
+- Store and Country-wise Sales Overview
+
+### 🔹 Page 2: Deep-Dive Insights
+- Top 10 Customers by Sales
+- Return Rate by Product
+- Store-wise Sales Trends
+- Performance Summary Matrix
+
+## 🧰 Tools & Technologies Used
+- Power BI
+- DAX
+- Excel
+- Power Query
+- Data Modeling
+- UI/UX Dashboard Design
+- Data Cleaning
+- KPI Visualization
+
+## 📸 Screenshots
+![Dashboard Overview](Screenshot%202025-07-21%20120720.png)
+![Deep Dive Insights](Screenshot%202025-07-21%20120734.png)
+
+## 🧠 Key Features
+- Modern dark-neon theme for visual clarity
+- Fully interactive with slicers and filters
+- Dynamic visual storytelling
+- Optimized performance using DAX measures
+
+## 📁 Files Included
+- `Retail_Sales_Performance_Analysis.pbix`: The main Power BI project file
+- Dashboard screenshots for visual preview
 
 ---
 
-📌 Created by [Shubham Pandey](https://www.linkedin.com/in/shubham-pandey-827504324/)
+Feel free to explore and reach out with any feedback or collaboration ideas.
+
