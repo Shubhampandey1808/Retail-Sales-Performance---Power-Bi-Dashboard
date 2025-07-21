@@ -10,9 +10,6 @@ This Power BI project analyzes historical retail sales data (1997–1998) to pro
 - Filtered by Country, Product, Month, Store
 - Designed with a modern dark-neon dashboard theme
 
-## 📷 Screenshots:
-(Upload your dashboard images here)
-
 ## 📁 Tools Used:
 Power BI | DAX | Power Query | Excel | Data Modeling | Data Visualization | UI/UX Dashboard Design
 
